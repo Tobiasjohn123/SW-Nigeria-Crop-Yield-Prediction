@@ -1,0 +1,8 @@
+__pycache__/
+*.pyc
+.venv/
+.pytest_cache/
+models/
+outputs/
+data/sw_nigeria_yield.csv
+.DS_Store
